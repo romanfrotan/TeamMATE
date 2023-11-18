@@ -22,9 +22,9 @@ CREATE TABLE `player` (
 --
 
 INSERT INTO `player` VALUES
-	(1,'Leslie','Andrews','leslie@luv2code.com','forward'),
-	(2,'Emma','Baumgarten','emma@luv2code.com','forward'),
-	(3,'Avani','Gupta','avani@luv2code.com','defender'),
-	(4,'Yuri','Petrov','yuri@luv2code.com','goalkeeper'),
-	(5,'Juan','Vega','juan@luv2code.com','midfeilder');
+	(1,'Leslie','Andrews','leslie@soccerzone.com','forward'),
+	(2,'Emma','Baumgarten','emma@soccerzone.com','forward'),
+	(3,'Avani','Gupta','avani@soccerzone.com','defender'),
+	(4,'Yuri','Petrov','yuri@soccerzone.com','goalkeeper'),
+	(5,'Juan','Vega','soccerzone.com','midfeilder');
 
