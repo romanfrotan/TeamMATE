@@ -26,5 +26,5 @@ INSERT INTO `player` VALUES
 	(2,'Emma','Baumgarten','emma@soccerzone.com','forward'),
 	(3,'Avani','Gupta','avani@soccerzone.com','defender'),
 	(4,'Yuri','Petrov','yuri@soccerzone.com','goalkeeper'),
-	(5,'Juan','Vega','Juansoccerzone.com','midfielder');
+	(5,'Juan','Vega','Juan@soccerzone.com','midfielder');
 
